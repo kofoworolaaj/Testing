@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 20 Apr 2024 22:24:18 at https://www.exicom-ps.com/home-charging +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.exicom-ps.com/home-charging -O1 "C:\Users\LENOVO\Downloads\Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:24:21	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.exicom-ps.com/robots.txt (from primary/primary)
+22:24:46	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.exicom-ps.com/home-charging)
+22:24:46	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/ (from https://www.exicom-ps.com/home-charging)
+22:24:59	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/GET (from https://www.exicom-ps.com/home-charging)
+22:24:59	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/ (from https://www.exicom-ps.com/home-charging)
+22:24:59	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/insights/here-is-everything-you-need-to-know-about-types-of-ev-chargers (from https://www.exicom-ps.com/business-solutions)
+22:24:59	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/insights/making-residential-electric-vehicle-charging-a-success-in-india (from https://www.exicom-ps.com/business-solutions)
+22:25:21	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/insights/indias-most-popular-evs-and-their-charging-times (from https://www.exicom-ps.com/business-solutions)
+22:25:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/industries/GET (from https://www.exicom-ps.com/industries/fleet)
+22:25:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/"https://assets-global.website-files.com/62f2ef87150fef91460709d6/65dbc78bac494f0006f1af49_gradients_compressed-poster-00001.jpg" (from https://www.exicom-ps.com/partnership)
+22:25:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/GET (from https://www.exicom-ps.com/home-charging)
+22:25:44	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.exicom-ps.com/ (from https://www.exicom-ps.com/home-charging)
+22:25:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/insights/here-is-everything-you-need-to-know-about-types-of-ev-chargers (from https://www.exicom-ps.com/business-solutions)
+22:25:45	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/insights/making-residential-electric-vehicle-charging-a-success-in-india (from https://www.exicom-ps.com/business-solutions)
+22:25:45	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/insights/indias-most-popular-evs-and-their-charging-times (from https://www.exicom-ps.com/business-solutions)
+22:25:45	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/industries/GET (from https://www.exicom-ps.com/industries/fleet)
+22:26:07	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.exicom-ps.com/"https://assets-global.website-files.com/62f2ef87150fef91460709d6/65dbc78bac494f0006f1af49_gradients_compressed-poster-00001.jpg" (from https://www.exicom-ps.com/partnership)
+22:26:07	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.exicom-ps.com/GET (from https://www.exicom-ps.com/home-charging)
+22:26:07	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.exicom-ps.com/insights/here-is-everything-you-need-to-know-about-types-of-ev-chargers (from https://www.exicom-ps.com/business-solutions)
+22:26:07	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.exicom-ps.com/insights/making-residential-electric-vehicle-charging-a-success-in-india (from https://www.exicom-ps.com/business-solutions)
+22:26:07	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.exicom-ps.com/insights/indias-most-popular-evs-and-their-charging-times (from https://www.exicom-ps.com/business-solutions)
+22:26:07	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.exicom-ps.com/industries/GET (from https://www.exicom-ps.com/industries/fleet)
+22:26:08	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.exicom-ps.com/"https://assets-global.website-files.com/62f2ef87150fef91460709d6/65dbc78bac494f0006f1af49_gradients_compressed-poster-00001.jpg" (from https://www.exicom-ps.com/partnership)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 50 seconds : 71 links scanned, 48 files written (5222666 bytes overall) [3009693 bytes received at 27360 bytes/sec], 2855266 bytes transferred using HTTP compression in 30 files, ratio 20%, 2.3 requests per connection
+(9 errors, 14 warnings, 0 messages)
